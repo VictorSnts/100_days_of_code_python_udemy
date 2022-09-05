@@ -7,7 +7,7 @@
  - Day 2: Entendendo os tipos de dados e como manipular strings (Projeto: https://encurtador.com.br/ghpqT)
  - Day 3: Fluxo de Controle e Operadores Lógicos (Projeto: https://encurtador.com.br/aIMOZ)
  - Day 4: Randomização e listas em Python (Projeto: https://encurtador.com.br/goBM6)
- - Day 5: Loops em Python (Projeto: encurtador.com.br/lDEFX)
+ - Day 5: Loops em Python (Projeto: https://encurtador.com.br/lDEFX)
  - Day 6: Funções do Python e Karel (Desafio: https://encurtador.com.br/cpswA)
  - Day 7: Jogo da Forca (Projeto: https://encurtador.com.br/gBGN2)
  - Day 8: Parâmetros de função e cifra de César (Projeto: https://encurtador.com.br/EGUX2)
