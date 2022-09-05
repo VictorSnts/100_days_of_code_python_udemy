@@ -12,4 +12,4 @@
  - Day 7: Jogo da Forca (Projeto: https://encurtador.com.br/gBGN2)
  - Day 8: Parâmetros de função e cifra de César (Projeto: https://encurtador.com.br/EGUX2)
  - Day 9: Dicionários, Aninhamento e o Leilão Secreto (Projeto: https://encurtador.com.br/wxDJX)
- - Day 10: Funções com Saídas (Projeto: https://)
+ - Day 10: Funções com Saídas (Projeto: https://encurtador.com.br/gBU59)
