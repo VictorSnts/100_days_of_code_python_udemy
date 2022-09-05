@@ -1,5 +1,6 @@
 # 100_days_of_code_python_udemy
  Códigos desenvolvidos durante o curso 100 Days of Code: The Complete Python Pro Bootcamp da Udemy!
+ 
  Link do curso: https://www.udemy.com/course/100-days-of-code/
  ## Iniciante:
  - Day 1: Trabalhando com variáveis em Python para gerenciar dados (Projeto: https://encurtador.com.br/qxBDL)
