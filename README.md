@@ -13,4 +13,5 @@
  - Day 8: Parâmetros de função e cifra de César (Projeto: https://encurtador.com.br/EGUX2)
  - Day 9: Dicionários, Aninhamento e o Leilão Secreto (Projeto: https://encurtador.com.br/wxDJX)
  - Day 10: Funções com Saídas (Projeto: https://encurtador.com.br/gBU59)
- - Dia 11: O Projeto Blackjack para validar conhecimentos dos dias anteriores (Projeto: https://encurtador.com.br/egUW1)
+ - Day 11: O Projeto Blackjack para validar conhecimentos dos dias anteriores (Projeto: https://encurtador.com.br/egUW1)
+ - Day 12: Escopo e Jogo de Adivinhação de Números (Projeto: https://encurtador.com.br/aLU56)
