@@ -16,3 +16,4 @@
  - Day 11: O Projeto Blackjack para validar conhecimentos dos dias anteriores (Projeto: https://encurtador.com.br/egUW1)
  - Day 12: Escopo e Jogo de Adivinhação de Números (Projeto: https://encurtador.com.br/aLU56)
  - Day 13: Debugging: como encontrar e corrigir erros em seu código (Codigos: https://encurtador.com.br/quPS1)
+ - Day 14: Projeto Higher Lower Game (Projeto: https://encurtador.com.br/tDGW6)
