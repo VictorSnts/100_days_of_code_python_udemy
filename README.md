@@ -22,3 +22,4 @@
  - Day 15: Configuração do Ambiente de Desenvolvimento Local e Máquina de Café (Projeto: https://encurtador.com.br/cGK38)
  - Day 16: Programação Orientada a Objetos(POO) (Projeto: https://encurtador.com.br/bqyBF)
  - Day 17: O projeto Quiz e os benefícios da POO (Projeto: https://encurtador.com.br/BNOPY)
+ - Day 18: Turtle e a interface gráfica do usuário (GUI) (Desafios: https://encurtador.com.br/sKQ58  Projeto: https://encurtador.com.br/czAIL )
