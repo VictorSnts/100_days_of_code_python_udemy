@@ -56,4 +56,3 @@ while execute:
     rerun = input("\n\nYou want to restart the cipher program? Yes or No? ").lower()
     if rerun == "no":
         execute = False
-
