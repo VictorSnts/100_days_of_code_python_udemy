@@ -5,4 +5,5 @@
 - Loop (for)
 
 ![Exec](./Exec.png)
+
 [Link do Codigo](./project_password_generator.py)
