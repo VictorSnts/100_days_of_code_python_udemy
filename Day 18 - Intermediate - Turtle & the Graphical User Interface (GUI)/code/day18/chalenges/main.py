@@ -15,6 +15,8 @@ def rand_color():
 
 turtle = t.Turtle()
 turtle.shape("turtle")
+
+
 # turtle.color(get_color())
 
 
@@ -45,6 +47,7 @@ def challenge_3():
         for _ in range(sides):
             turtle.forward(DIST)
             turtle.right(angle)
+
     for i in range(3, 11):
         draw(i)
 
@@ -52,19 +55,16 @@ def challenge_3():
 def challenge_4():
     """Desafio 4 - Faca percorrer um caminho aleatorio"""
     DIST = 25
+    DIRECTIONS = [0, 90, 180, 270]
 
-    FRONT = 0
-    RIGHT = 90
-    LEFT = -90
-
-    DIRECTIONS = [FRONT, RIGHT, LEFT]
-
-    for _ in range(201):
+    for _ in range(101):
         turtle.pensize(10)
         turtle.color(rand_color())
         turtle.forward(DIST)
         turtle.setheading(random.choice(DIRECTIONS))
 
+
+def challenge_5():
     SIZE = 100
 
     def draw(gap):
