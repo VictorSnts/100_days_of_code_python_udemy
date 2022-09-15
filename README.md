@@ -12,7 +12,7 @@
  - Day 7: Jogo da Forca ([Projeto](https://github.com/VictorSnts/100_days_of_code_python_udemy/tree/main/Day%2007%20-%20Beginner%20-%20Hangman/code/Day7/project))
  - Day 8: Parâmetros de função e cifra de César ([Projeto](https://github.com/VictorSnts/100_days_of_code_python_udemy/tree/main/Day%2008%20-%20Beginner%20-%20Function%20Parameters%20%26%20Caesar%20Cipher/code/Day8/project))
  - Day 9: Dicionários, Aninhamento e o Leilão Secreto ([Projeto](https://github.com/VictorSnts/100_days_of_code_python_udemy/tree/main/Day%2009%20-%20Beginner%20-%20Dictionaries%2C%20Nesting%20and%20the%20Secret%20Auction/code/Day9/project))
- - Day 10: Funções com Saídas (Projeto: https://encurtador.com.br/gBU59)
+ - Day 10: Funções com Saídas ([Projeto](https://github.com/VictorSnts/100_days_of_code_python_udemy/tree/main/Day%2010%20-%20Beginner%20-%20Functions%20with%20Outputs/code/Day10/project))
  - Day 11: O Projeto Blackjack para validar conhecimentos dos dias anteriores (Projeto: https://encurtador.com.br/egUW1)
  - Day 12: Escopo e Jogo de Adivinhação de Números (Projeto: https://encurtador.com.br/aLU56)
  - Day 13: Debugging: como encontrar e corrigir erros em seu código (Codigos: https://encurtador.com.br/quPS1)
