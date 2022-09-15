@@ -68,6 +68,7 @@ def challenge_5():
     SIZE = 100
 
     def draw(gap):
+        """Desenhar um espirógrafo"""
         turtle.speed("fastest")
         circles = int(360 / gap)
         for _ in range(circles + 1):
