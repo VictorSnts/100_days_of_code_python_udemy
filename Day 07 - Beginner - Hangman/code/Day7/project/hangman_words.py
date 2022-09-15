@@ -8,5 +8,4 @@ words = ["aviao", "elefante", "bola", "bebe", "peixe", "futebol", "beliscao", "b
 
 
 def get_word():
-#    return random.choice(words)
-    return "aviao"
+    return random.choice(words)
