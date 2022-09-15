@@ -23,3 +23,4 @@
  - Day 16: Programação Orientada a Objetos(POO) (Projeto: https://encurtador.com.br/bqyBF)
  - Day 17: O projeto Quiz e os benefícios da POO (Projeto: https://encurtador.com.br/BNOPY)
  - Day 18: Turtle e a interface gráfica do usuário (GUI) (Desafios: https://encurtador.com.br/sKQ58  Projeto: https://encurtador.com.br/czAIL )
+ - Day 19: Instâncias, Estado e Higher Order Functions ([Desafios](https://github.com/VictorSnts/100_days_of_code_python_udemy/tree/main/Day%2019%20-%20Intermediate%20-%20Instances%2C%20State%20and%20Higher%20Order%20Functions/code/day19/challenges))
