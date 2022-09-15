@@ -1,4 +1,4 @@
-# Projeto Dia 5 - Pedra, Papel e Tesoura
+# Projeto Dia 5 - Gerador de Senhas
 
 ## Conceitos Apresentados
 - Listas
