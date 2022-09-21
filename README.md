@@ -24,3 +24,4 @@
  - Day 17: O projeto Quiz e os benefícios da POO (Projeto: https://encurtador.com.br/BNOPY)
  - Day 18: Turtle e a interface gráfica do usuário (GUI) (Desafios: https://encurtador.com.br/sKQ58  Projeto: https://encurtador.com.br/czAIL )
  - Day 19: Instâncias, Estado e Higher Order Functions ([Desafios](https://github.com/VictorSnts/100_days_of_code_python_udemy/tree/main/Day%2019%20-%20Intermediate%20-%20Instances%2C%20State%20and%20Higher%20Order%20Functions/code/day19/challenges))
+ - Day 20 & 21: Construcao do Jogo da Cobra - Animação, Coordenadas, Fatiamento da Listas e Herança de Classes ([Projeto](https://github.com/VictorSnts/100_days_of_code_python_udemy/tree/main/Day%2020%20%26%2021-%20Intermediate%20-%20Build%20the%20Snake%20Game%20-%20Animation%2C%20Coordinates%2C%20Inheritance%20List%20Slicing/code/Day20/project))
